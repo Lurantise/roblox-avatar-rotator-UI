@@ -13,6 +13,8 @@ A lightweight system tray application that automatically rotates your Roblox ava
 Choose one of the following methods to install and run the application.
 
 ### Executable (Recommended)
+>[!WARNING]
+>This method has had issues and may not work. It is reccommended to use the "Run as Python" method to ensure it works.
 1. Go to the <a href="https://github.com/fowntain/roblox-avatar-rotator/releases/latest">**Releases**</a>.
 2. Download `RobloxRotator.zip`.
 3. Extract the contents to a folder.
