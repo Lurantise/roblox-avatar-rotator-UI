@@ -12,14 +12,6 @@ A lightweight system tray application that automatically rotates your Roblox ava
 ## Installation
 Choose one of the following methods to install and run the application.
 
-### Executable (Recommended)
->[!WARNING]
->This method has had issues and may not work. It is reccommended to use the "Run as Python" method to ensure it works.
-1. Go to the <a href="https://github.com/fowntain/roblox-avatar-rotator/releases/latest">**Releases**</a>.
-2. Download `RobloxRotator.zip`.
-3. Extract the contents to a folder.
-4. Run `RobloxRotator.exe`.
-
 > [!NOTE]
 > *Since this app isn't digitally signed, Windows Defender or other antivirus software may flag it. You might have to whitelist the application or select "Run Anyway" to proceed. All the code is open-source, so you may look through it or compile it yourself.*
 
@@ -72,3 +64,4 @@ pythonw main.pyw
 >* **Never share your cookie** with anyone.
 >* This application stores your configuration locally in a `config.json` file on your computer, so do NOT open this file when others can see your screen.
 >* The source code is provided in this repository for full transparency. You are encouraged to review `src/main.pyw` to ensure it is safe before use.
+>* The source code is a remake of the original with a new ui, and other things.
